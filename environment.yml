@@ -1,0 +1,16 @@
+name: meteogeopy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - xarray
+  - netCDF4
+  - cfgrib
+  - cartopy
+  - metpy
+  - obspy
+  - jupyterlab
