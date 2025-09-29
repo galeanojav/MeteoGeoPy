@@ -6,7 +6,7 @@ Cada día trabajaremos con **notebooks en Jupyter**, que puedes abrir de dos for
 Haz clic en los enlaces de cada notebook y ábrelos en Colab.  
 Si falta alguna librería, ejecútala con `!pip install nombre`.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/galeanojav/python-meteo-geofisica/blob/main/notebooks/dia1_intro_python.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D1yRKQuTWTGGRrMPKNAd5V6qhBtsn0a-)
 
 ### 👉 Opción 2: Binder
 Lanza el curso completo en Binder aquí:  
